@@ -1,0 +1,161 @@
+{
+    "name": "Carlos Arboleda",
+    "profession": "CTO y Tech Lead at LaManicurista",
+    "address": "Cali, Colombia.",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/test-1-600e1.appspot.com/o/me-cv%2Fcfag_kotlin_everywhere2019_crop.png?alt=media",
+    "bio": "Desarrollador Full Stack con más de 9 años de experiencia participando activamente en todo el ciclo de de vida de proyectos de software, desde el análisis hasta la puesta en marcha en producción.  Me apasiona el emprendimiento y la construcción de productos de software de alto rendimiento y consumo masivo. Durante los últimos 7 años me he especializado en el desarrollo de aplicaciones móviles Android y Backend. ",
+    "short_bio": "Soy un desarrollador de software y emprendedor, salsero y amante de la pizza 🍕",
+    "certificate": [
+        {
+            "date": "Feb 2020",
+            "description": "Arquitectura de software y patrones de diseño",
+            "institution": "DevHack",
+            "name": "Taller de Arquitectura de Software"
+        },
+        {
+            "date": "Oct 2019",
+            "description": "Curso de introducción a la metodoloía ágil Scrum",
+            "institution": "Udemy",
+            "name": "Scrum Master + La Revolución Ágil + Liderar Equipos Scrum"
+        },
+        {
+            "date": "Feb 2017",
+            "description": "Taller de desarrollo con ReactJS",
+            "institution": "DevHack",
+            "name": "ReactJS"
+        },
+        {
+            "date": "Feb 2015",
+            "description": "Taller de desarrollo nativo en iOS, dictado en la universidad Autonoma de Occidente, certificado otorgado por Apps.co iniciativa del ministerio de las TIC.",
+            "institution": "Ministerio TIC",
+            "name": "iOS Developer"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero en Sistemas",
+            "description": "",
+            "endDate": "Ene 2012",
+            "institution": "UNIAJC",
+            "startDate": "Ene 2014"
+        },
+        {
+            "degree": "Tecnólogo en Sistemas",
+            "description": "",
+            "endDate": "Ene 2007",
+            "institution": "UNIAJC",
+            "startDate": "Ago 2010"
+        }
+    ],
+    "experience": [
+        {
+            "company": "La Manicurista",
+            "endDate": "Presente",
+            "jobDescription": "Actualmente me desempeño como líder del equipo de tecnología y desarrollo. Una de mis principales funciones es enfocar el equipo en el mejoramiento continuo, llevar a cabo estrategías para garantizar la escalabilidad de la plataforma. Además brindar acompañamiento en la definición de estrategias transversales en la compañía.",
+            "jobTitle": "CTO y Tech Lead",
+            "startDate": "Ene 2017"
+        },
+        {
+            "company": "GDG Cali",
+            "endDate": "Presente",
+            "jobDescription": "Organizador y speaker del GDG Cali. En el 2018 llevamos a cabo el DevFest Cali 2018, en el cual tuvimos más de 300 participantes 12 charlas de diferentes temas durante las 8 horas del evento.",
+            "jobTitle": "Co-organizer y Speaker",
+            "startDate": "Ene 2018"
+        },
+        {
+            "company": "DevHack",
+            "endDate": "Feb 2019",
+            "jobDescription": "Con DevHack tuve la gran experiencia de compartir mi conocimiento y también aprender de más 58 alumnos que tuve a lo largo de 5 cursos sobre Android y 1 sobre Node Js para un total de 240 horas.",
+            "jobTitle": "Mentor",
+            "startDate": "Nov 2017"
+        },
+        {
+            "company": "Mobile Lab",
+            "endDate": "Presente",
+            "jobDescription": "Como co-fundador de la compañía se llevan a cabo diferentes procesos como: análisis, estimación, cotización, desarrollo e implementación de proyectos de diferente indole. Ofrecemos servicios de desarrollo a la medida ademas de trabajar en productos internos de la compañía. Las plataformas y/o lenguajes utilizados son: Java, PHP y Android, JavaScript, AngularJs, NodeJs, Linux y base de datos PostgreSQL, MySQL y SQL Server, MongoDB.",
+            "jobTitle": "CTO - Socio fundador",
+            "startDate": "Oct 2014"
+        },
+        {
+            "company": "Play Technologies S.A.S",
+            "endDate": "Jul 2017",
+            "jobDescription": "Desarrollo y soporte de aplicaciones de los productos de la compañía.",
+            "jobTitle": "Ingeniero de desarrollo",
+            "startDate": "May 2016"
+        },
+        {
+            "company": "Enigma Developers Ltda.",
+            "endDate": "Sept 2015",
+            "jobDescription": "Análisis e implementación de aplicaciones móviles (celulares) con J2ME y Android, para automatización de fuerza de venta, soporte y capacitación a usuarios finales, desarrollo sobre las diferentes plataformas de Java, PHP y Android, administración de servidores Linux y base de datos PostgreSQL y MySQL.",
+            "jobTitle": "Ingeniero de desarrollo",
+            "startDate": "Feb 2011"
+        },
+        {
+            "company": "BM Software",
+            "endDate": "Sept 2010",
+            "jobDescription": "Análisis e implementación de aplicaciones empresariales en ambiente Web con JSF (Ice Faces).",
+            "jobTitle": "Desarrollador Java",
+            "startDate": "Feb 2009"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Scrum",
+            "percentage": "70%"
+        },
+        {
+            "name": "Android",
+            "percentage": "75%"
+        },
+        {
+            "name": "Kotlin",
+            "percentage": "70%"
+        },
+        {
+            "name": "Java",
+            "percentage": "85%"
+        },
+        {
+            "name": "JavaScript",
+            "percentage": "80%"
+        },
+        {
+            "name": "React Js",
+            "percentage": "60%"
+        },
+        {
+            "name": "Node Js",
+            "percentage": "70%"
+        },
+        {
+            "name": "SQL",
+            "percentage": "85%"
+        },
+        {
+            "name": "Linux",
+            "percentage": "70%"
+        }
+    ],
+    "social": [
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/carlosfernando.arboledagarces"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/cfarboleda"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/carboleda"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/carboleda/"
+        },
+        {
+            "name": "stack-overflow",
+            "url": "https://stackoverflow.com/users/3167601/carboleda"
+        }
+    ]
+}

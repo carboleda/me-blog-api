@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Trabajo remoto",
+    "description": "En esta presentación compartiré la metodología de trabajo remoto que utilizo como mi equipo de tecnología y también algunos tips sobre productividad y manejo de equipos",
+    "createAt": "Created Mar 23rd, 2020",
+    "link": "https://slides.com/carboleda/remote-work",
+    "image": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/8fbb8c306c1ab6016a9c2cd5c9e3b70b/thumb.jpg?1585230882"
+  },
+  {
+    "title": "From STUPID to SOLID code",
+    "description": "¡Calma! En esta charla no vas a recibir insultos. STUPID es solo un acrónimo para referirnos a 6 malas prácticas en las que se suele caer al escribir código. Vamos a aprender a reconocer el código STUPID, mejorarlo usando los principios SOLID y así comenzar a reducir la deuda técnica en nuestros proyectos. GDG Cali Day 2020",
+    "createAt": "Created Mar 1st, 2020",
+    "link": "https://slides.com/carboleda/from-stupid-to-solid-code",
+    "image": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/3dbd8c542c765753684c39c48ec51134/thumb.jpg?1585412036"
+  },
+  {
+    "title": "SCRUM Retrospectiva Agosto 2019",
+    "description": "Primera reunión retrospectiva con el equipo TI de LaManicurista",
+    "createAt": "Created Aug 14th, 2019",
+    "link": "https://slides.com/carboleda/scrum-retrospectiva-4",
+    "image": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/a6dc444c3ce71e57c7c4e5e3a8a79fe9/thumb.jpg?1559914966"
+  },
+  {
+    "title": "Anatomía de Kotlin",
+    "description": "Kotlin es un lenguaje de programación moderno que compila a código byte y se ejecuta sobre la Java Virtual Machine. Es de código de abierto, gratuito y su versatilidad y simplicidad nos ayuda ser más productivos al codear. En esta charla vamos a hacer un recorrido por las características más destacadas de Kotlin y les compartiré algunos consejos para sacar el mayor provecho de este divertido lenguaje.",
+    "createAt": "Created Jun 24th, 2019",
+    "link": "https://slides.com/carboleda/anatomia_de_kotlin",
+    "image": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/10b8853b51038691beaf691dedaebfaa/thumb.jpg?1562217595"
+  },
+  {
+    "title": "SCRUM Retrospectiva Junio 2019",
+    "description": "Primera reunión retrospectiva con el equipo TI de LaManicurista",
+    "createAt": "Created Jun 7th, 2019",
+    "link": "https://slides.com/carboleda/scrum-retrospectiva",
+    "image": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/a6dc444c3ce71e57c7c4e5e3a8a79fe9/thumb.jpg?1559914966"
+  },
+  {
+    "title": "Optimizando tu aplicación Android",
+    "description": "Sabias que puedes inyectarle esteroides a tu aplicación Android para que se ejecute más rápido, sea mas liviana y a demás tenga un código muchos mas seguro? Al final de esta presentación sabrás como hacerlo...",
+    "createAt": "Created May 29th, 2019",
+    "link": "https://slides.com/carboleda/optimizando_tu_aplicacin_android",
+    "image": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/d94ab3a514ff39bf3a58fb4af5c71037/thumb.jpg?1560180512"
+  },
+  {
+    "title": "Migrando Android de Java a Kotlin",
+    "description": "Kotlin fue anunciado durante el Google I/O de 2017 como el lenguaje de programación oficial para desarrollar aplicaciones en Android y gracias a su capacidad de interoperar con Java, simplicidad y versatilidad, se está convirtiendo en el lenguaje más utilizado a la hora de programar en Android.",
+    "createAt": "Created Jan 13th, 2019",
+    "link": "https://slides.com/carboleda/migrando-android-de-java-a-kotlin",
+    "image": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/a6678bc31dc9dea43023ace72fa7bd7f/thumb.jpg?1548481259"
+  }
+]
