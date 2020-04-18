@@ -1,4 +1,4 @@
-Las funciones están deplegadas en el proyecto Generic Project (test-1-600e1)
+Backend que expone un API Rest basada en firebase-functions para proveer la información necesaria para el proyecto [me-blog](https://github.com/carboleda/me-blog).
 
 ```shell
 cd me-blog-api/functions
